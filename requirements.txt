@@ -1,1 +1,4 @@
-
+pyTelegramBotAPI
+flask
+openpyxl
+requests
